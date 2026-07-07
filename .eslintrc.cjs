@@ -1,7 +1,10 @@
 module.exports = {
   root: true,
   parser: '@typescript-eslint/parser',
-  extends: 'standard-with-typescript',
+  extends: [
+    'eslint:recommended',
+    'plugin:@typescript-eslint/recommended-type-checked'
+  ],
   parserOptions: {
     tsconfigRootDir: __dirname,
     project: [

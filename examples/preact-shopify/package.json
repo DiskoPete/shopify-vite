@@ -7,16 +7,16 @@
     "build": "vite build"
   },
   "devDependencies": {
-    "@preact/preset-vite": "^2.10.1",
-    "@tailwindcss/vite": "^4.0.17",
+    "@preact/preset-vite": "^2.10.5",
+    "@tailwindcss/vite": "^4.3.2",
     "@types/preact-custom-element": "^4.0.4",
-    "tailwindcss": "^4.0.17",
-    "vite": "^6.2.3",
+    "tailwindcss": "^4.3.2",
+    "vite": "^6.4.3",
     "vite-plugin-shopify": "workspace:*"
   },
   "dependencies": {
-    "@preact/signals": "^2.0.2",
-    "preact": "^10.26.4",
-    "preact-custom-element": "^4.2.1"
+    "@preact/signals": "^2.9.3",
+    "preact": "^10.29.4",
+    "preact-custom-element": "^4.6.0"
   }
 }

@@ -9,13 +9,13 @@
   },
   "devDependencies": {
     "cross-env": "^7.0.3",
-    "sass": "^1.52.2",
+    "sass": "^1.101.0",
     "tsconfig": "workspace:*",
-    "vite": "^7.2.4",
+    "vite": "^7.3.6",
     "vite-plugin-page-reload": "workspace:*",
     "vite-plugin-shopify": "workspace:*"
   },
   "dependencies": {
-    "lodash-es": "^4.17.21"
+    "lodash-es": "^4.18.1"
   }
 }
